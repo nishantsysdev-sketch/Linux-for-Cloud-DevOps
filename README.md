@@ -50,3 +50,21 @@ Continue practicing Linux commands, permissions, users, processes, and Bash scri
 
 Learning in public: building practical Linux skills for a Cloud & DevOps career.
 
+
+## Day 2 — File Operations and Permissions
+
+### Commands Practiced
+- cat, echo, >, >>
+- head, tail, less
+- cp — copy files
+- mv — move or rename files
+- rm — delete files
+- chmod — change permissions
+- ls -l — inspect file permissions
+
+### Key Learnings
+- `>` replaces file content; `>>` appends content.
+- `cp` creates an independent copy.
+- `mv` moves or renames files.
+- `chmod 600` gives the owner read/write access only.
+- `chmod 644` gives the owner read/write access and others read-only access.
