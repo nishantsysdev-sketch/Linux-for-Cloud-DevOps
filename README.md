@@ -70,7 +70,7 @@ Learning in public: building practical Linux skills for a Cloud & DevOps career.
 - `chmod 644` gives the owner read/write access and others read-only access.
 
 
-# Day 4 — Linux Users and Groups
+# Day 3 — Linux Users and Groups
 
 ## Objective
 
