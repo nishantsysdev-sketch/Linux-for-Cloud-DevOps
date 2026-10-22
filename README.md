@@ -204,7 +204,7 @@ Complete these tasks in your Linux lab:
 * [ ] Explain the difference between `getent passwd` and `cat /etc/passwd`.
 * [ ] Explain the difference between a primary group and a supplementary group.
 
-## 10. Day 4 Summary
+## 10. Day 3 Summary
 
 Today, I studied Linux user accounts, group memberships, user and group databases, and sudo permissions. I practised commands for inspecting account information and learned how Linux identifies users and groups.
 
